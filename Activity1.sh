@@ -1,5 +1,5 @@
 USER_NAME=""
-AGE=0
+AGE=
 PROGRAM=""
 
 
